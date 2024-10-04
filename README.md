@@ -13,22 +13,16 @@ I'm a passionate B. Tech CSE student at Graphic Era Hill University (GEHU), Bhim
 - 💼 Entry-level Software Engineering positions
 - 🌱 Internship opportunities to apply and expand my skills
 
+
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
 ### 💪 What I bring to the table
 - 🧠 Strong problem-solving skills and analytical thinking
 - 🤝 Excellent team player with great communication skills
 - 📚 Quick learner, always eager to explore new technologies
 - 🎯 Consistent and goal-oriented approach to projects
-
-### 🛠️ Technical Skills
-- Languages: [Python, Java, C++, HTML]
-- Web Technologies: [HTML, CSS, JavaScript]
-- Frameworks: [React, Django]
-- Tools: [Git, VS Code, Docker]
-- Databases: [MySQL, MongoDB]
-
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
+  
 ### 🌐 Let's Connect!
 - LinkedIn: [Your LinkedIn Profile]
 - Twitter: [@YourTwitterHandle]
