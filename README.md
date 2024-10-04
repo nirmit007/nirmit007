@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hello, I'm Nirmit Srivastava
 
-<!--
-**nirmit007/nirmit007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Software Engineer | 💻 Tech Enthusiast | 🌟 Problem Solver
 
-Here are some ideas to get you started:
+I'm a passionate B. Tech CSE student at Graphic Era Hill University (GEHU), Bhimtal, with a strong drive to innovate and create in the world of technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+- **B. Tech in Computer Science and Engineering**
+  - Graphic Era Hill University, Bhimtal
+  - Expected Graduation: 2025
+
+### 🔍 Currently seeking
+- 💼 Entry-level Software Engineering positions
+- 🌱 Internship opportunities to apply and expand my skills
+
+### 💪 What I bring to the table
+- 🧠 Strong problem-solving skills and analytical thinking
+- 🤝 Excellent team player with great communication skills
+- 📚 Quick learner, always eager to explore new technologies
+- 🎯 Consistent and goal-oriented approach to projects
+
+### 🛠️ Technical Skills
+- Languages: [Python, Java, C++, HTML]
+- Web Technologies: [HTML, CSS, JavaScript]
+- Frameworks: [React, Django]
+- Tools: [Git, VS Code, Docker]
+- Databases: [MySQL, MongoDB]
+
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+### 🌐 Let's Connect!
+- LinkedIn: [Your LinkedIn Profile]
+- Twitter: [@YourTwitterHandle]
+- Portfolio: [Your personal website if you have one]
+
+---
+
+💡 I'm always open to collaborating on projects and innovative ideas. Feel free to reach out if you'd like to connect!
